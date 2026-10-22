@@ -1,0 +1,6 @@
+{
+  "name": "FitLife Pro",
+  "description": "FitLife Pro - Professional Video Workout App by Md Jahangir Alam. Real video workouts, personalized daily fitness plans, timer session engine, bilingual Bengali & English, and local progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
